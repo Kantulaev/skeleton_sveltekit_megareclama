@@ -65,6 +65,7 @@ declare module '$env/static/private' {
 	export const npm_package_devDependencies_vite: string;
 	export const npm_package_devDependencies__skeletonlabs_skeleton: string;
 	export const npm_package_devDependencies__sveltejs_adapter_auto: string;
+	export const npm_package_devDependencies__sveltejs_adapter_netlify: string;
 	export const npm_package_devDependencies__sveltejs_kit: string;
 	export const npm_package_name: string;
 	export const npm_package_private: string;
@@ -177,6 +178,7 @@ declare module '$env/dynamic/private' {
 		npm_package_devDependencies_vite: string;
 		npm_package_devDependencies__skeletonlabs_skeleton: string;
 		npm_package_devDependencies__sveltejs_adapter_auto: string;
+		npm_package_devDependencies__sveltejs_adapter_netlify: string;
 		npm_package_devDependencies__sveltejs_kit: string;
 		npm_package_name: string;
 		npm_package_private: string;
