@@ -2,7 +2,7 @@
   import "@skeletonlabs/skeleton/themes/theme-skeleton.css";
   import "@skeletonlabs/skeleton/styles/all.css";
   import "../app.postcss";
-  import { AppShell, AppBar } from "@skeletonlabs/skeleton";
+  import { AppShell, AppBar, LightSwitch } from "@skeletonlabs/skeleton";
 </script>
 
 <!-- App Shell -->
@@ -15,23 +15,24 @@
       </svelte:fragment>
       <svelte:fragment slot="trail">
         <a
-          class="btn btn-sm btn-ghost-surface"
-          href="https://discord.gg/EXqV7W8MtY"
+          class="btn btn-sm btn-ghost-surface bg-blue-500"
+          href="https://t.me/mega_reclama"
           target="_blank"
-          rel="noreferrer">Discord</a
+          rel="noreferrer">Telegram</a
         >
         <a
-          class="btn btn-sm btn-ghost-surface"
-          href="https://twitter.com/SkeletonUI"
+          class="btn btn-sm btn-ghost-surface bg-green-600"
+          href="https://wa.me/79882931800"
           target="_blank"
-          rel="noreferrer">Twitter</a
+          rel="noreferrer">WhatsApp</a
         >
         <a
-          class="btn btn-sm btn-ghost-surface"
-          href="https://github.com/skeletonlabs/skeleton"
+          class="hidden sm:flex btn btn-sm btn-ghost-surface"
+          href="tel:+79882931800"
           target="_blank"
-          rel="noreferrer">GitHub</a
+          rel="noreferrer">+7 (988) 293-18-00</a
         >
+        <LightSwitch class="hidden sm:flex" />
       </svelte:fragment>
     </AppBar>
   </svelte:fragment>
