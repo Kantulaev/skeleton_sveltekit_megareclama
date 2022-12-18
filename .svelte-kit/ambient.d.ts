@@ -35,6 +35,8 @@ declare module '$env/static/private' {
 	export const COMPUTERNAME: string;
 	export const ComSpec: string;
 	export const DriverData: string;
+	export const FPS_BROWSER_APP_PROFILE_STRING: string;
+	export const FPS_BROWSER_USER_PROFILE_STRING: string;
 	export const GIT_ASKPASS: string;
 	export const HOME: string;
 	export const HOMEDRIVE: string;
@@ -60,6 +62,7 @@ declare module '$env/static/private' {
 	export const npm_package_devDependencies_autoprefixer: string;
 	export const npm_package_devDependencies_postcss: string;
 	export const npm_package_devDependencies_svelte: string;
+	export const npm_package_devDependencies_svelte_image_gallery: string;
 	export const npm_package_devDependencies_svelte_preprocess: string;
 	export const npm_package_devDependencies_tailwindcss: string;
 	export const npm_package_devDependencies_vite: string;
@@ -148,6 +151,8 @@ declare module '$env/dynamic/private' {
 		COMPUTERNAME: string;
 		ComSpec: string;
 		DriverData: string;
+		FPS_BROWSER_APP_PROFILE_STRING: string;
+		FPS_BROWSER_USER_PROFILE_STRING: string;
 		GIT_ASKPASS: string;
 		HOME: string;
 		HOMEDRIVE: string;
@@ -173,6 +178,7 @@ declare module '$env/dynamic/private' {
 		npm_package_devDependencies_autoprefixer: string;
 		npm_package_devDependencies_postcss: string;
 		npm_package_devDependencies_svelte: string;
+		npm_package_devDependencies_svelte_image_gallery: string;
 		npm_package_devDependencies_svelte_preprocess: string;
 		npm_package_devDependencies_tailwindcss: string;
 		npm_package_devDependencies_vite: string;

@@ -1,10 +1,10 @@
 <script>
-  import ContactButtons from '../lib/ContactButtons.svelte';
+  import ContactButtons from "../lib/ContactButtons.svelte";
 
   import "@skeletonlabs/skeleton/themes/theme-skeleton.css";
   import "@skeletonlabs/skeleton/styles/all.css";
   import "../app.postcss";
-  import { AppShell, AppBar, LightSwitch } from "@skeletonlabs/skeleton";
+  import { AppShell, AppBar, LightSwitch, menu } from "@skeletonlabs/skeleton";
 </script>
 
 <!-- App Shell -->
@@ -16,7 +16,7 @@
         <a href="/"><strong class="text-xl">megareclama</strong></a>
       </svelte:fragment>
       <svelte:fragment slot="trail">
-        <ContactButtons></ContactButtons>
+        <ContactButtons />
         <a
           class="hidden sm:flex btn btn-sm btn-ghost-surface"
           href="tel:+79882931800"
