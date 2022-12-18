@@ -2,7 +2,7 @@
   aria-label="Site Footer"
   class="bg-white dark:bg-gray-900 lg:grid lg:grid-cols-5"
 >
-  <div class="relative block h-96 col-span-2 lg:h-full">
+  <div class="relative block h-96 col-span-3 lg:h-full">
     <iframe
       title="map"
       class="w-full h-96 sm:h-full"
@@ -14,8 +14,8 @@
     />
   </div>
 
-  <div class="px-4 py-16 sm:px-6 lg:col-span-3 lg:px-8">
-    <div class="grid grid-cols-1 gap-8 sm:grid-cols-2">
+  <div class="px-4 py-16 sm:px-6 lg:col-span-2 lg:px-8">
+    <div class="grid grid-cols-1 gap-8 ">
       <div>
         <p>
           <span
@@ -122,36 +122,36 @@
             </a>
           </li>
         </ul>
-      </div>
-      <div class="mt-4 sm:mt-8">
-        <a
-          href="/gallery"
-          class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
-        >
-          <span class="text-white text-sm font-medium">
-            Посмотреть Работы
-          </span>
-
-          <svg
-            class="ml-3 h-5 w-5"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
+        <div class="pt-8">
+          <a
+            href="/gallery"
+            class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M17 8l4 4m0 0l-4 4m4-4H3"
-            />
-          </svg>
-        </a>
-      </div>
+            <span class="text-white text-sm font-medium">
+              Посмотреть Работы
+            </span>
 
-      <p class="mt-8 text-xs text-gray-500 dark:text-gray-400 sm:mt-0">
-        &copy; 2007-2023. <br /> ООО "Фабрика Рекламы "Мега". <br /> Все права защищены.
-      </p>
+            <svg
+              class="ml-3 h-5 w-5"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17 8l4 4m0 0l-4 4m4-4H3"
+              />
+            </svg>
+          </a>
+        </div>
+        <p class="mt-8 text-xs text-gray-500 dark:text-gray-400">
+          &copy; 2007-2023. <br /> ООО "Фабрика Рекламы "Мега". <br /> Все права
+          защищены.
+        </p>
+      </div>
     </div>
   </div>
 </footer>

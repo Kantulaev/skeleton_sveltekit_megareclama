@@ -20,12 +20,6 @@
       >
         <img src="logos/zm.jpg" alt="zm" />
       </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/yabloko.jpg" alt="zelenoe yabloko" />
-      </a>
 
       <a
         href="#"
@@ -44,36 +38,6 @@
         class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
       >
         <img src="logos/wrestling.jpg" alt="wrestling europe 2018" />
-      </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/geniled.jpg" alt="geniled" />
-      </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/geniled.jpg" alt="geniled" />
-      </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/geniled.jpg" alt="geniled" />
-      </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/geniled.jpg" alt="geniled" />
-      </a>
-      <a
-        href="#"
-        class="flex justify-center items-center grayscale hover:grayscale-0 hover:scale-110 transition-all"
-      >
-        <img src="logos/geniled.jpg" alt="geniled" />
       </a>
       <a
         href="#"
