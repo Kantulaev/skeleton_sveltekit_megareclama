@@ -7,7 +7,7 @@
       <img
         alt="Man"
         src="/Testimonials_1.jpg"
-        class="aspect-square w-100 rounded-lg object-cover"
+        class="hidden sm:flex aspect-square w-100 rounded-lg object-cover"
       />
 
       <blockquote class="sm:col-span-2">
@@ -46,7 +46,7 @@
       <img
         alt="Woman"
         src="/Testimonials_2.jpg"
-        class="aspect-square w-full rounded-lg object-cover"
+        class="hidden sm:flex aspect-square w-full rounded-lg object-cover"
       />
 
     </div>
@@ -59,7 +59,7 @@
       <img
         alt="Woman"
         src="/Testimonials_3.jpg"
-        class="aspect-square w-full rounded-lg object-cover"
+        class="hidden sm:flex aspect-square w-full rounded-lg object-cover"
       />
 
       <blockquote class="sm:col-span-2">

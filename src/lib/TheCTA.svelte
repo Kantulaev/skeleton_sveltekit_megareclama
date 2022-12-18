@@ -12,7 +12,7 @@
         direction="bg-gradient-to-r"
         from="from-primary-500"
         to="to-accent-500"
-        class="text-4xl md:text-6xl"
+        class="text-3xl md:text-6xl"
         >Рекламное агентство <br /> в Дагестане с 2007 года
       </GradientHeading>
 
@@ -26,9 +26,9 @@
       <div class="mt-4 sm:mt-8">
         <a
           href="/gallery"
-          class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 text-white shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
+          class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
         >
-          <span class="text-sm font-medium"> Посмотреть Работы </span>
+          <span class="text-white text-sm font-medium"> Посмотреть Работы </span>
 
           <svg
             class="ml-3 h-5 w-5"
