@@ -128,7 +128,7 @@
             class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
           >
             <span class="text-white text-sm font-medium">
-              Посмотреть Работы
+              Посмотреть работы
             </span>
 
             <svg

@@ -28,7 +28,7 @@
           href="/gallery"
           class="inline-flex items-center rounded-full bg-indigo-700 px-8 py-3 shadow-lg transition hover:bg-indigo-600 focus:outline-none focus:ring"
         >
-          <span class="text-white text-sm font-medium"> Посмотреть Работы </span>
+          <span class="text-white text-sm font-medium"> Посмотреть работы </span>
 
           <svg
             class="ml-3 h-5 w-5"

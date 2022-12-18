@@ -11,7 +11,7 @@
     to="to-accent-500"
     class="text-4xl pb-8 md:text-6xl"
   >
-    Галлерея наших работ
+    Галерея наших работ
   </GradientHeading>
 </div>
 
