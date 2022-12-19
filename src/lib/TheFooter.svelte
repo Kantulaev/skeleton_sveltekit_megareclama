@@ -1,3 +1,7 @@
+<script>
+  import { LightSwitch } from "@skeletonlabs/skeleton";
+</script>
+
 <footer
   aria-label="Site Footer"
   class="bg-white dark:bg-gray-900 lg:grid lg:grid-cols-5"
@@ -31,6 +35,22 @@
             class="block text-2xl font-medium text-gray-900 hover:opacity-75 dark:text-white sm:text-3xl"
           >
             +7 (988) 293-18-00
+          </a>
+        </p>
+        <p>
+          <span
+            class="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400"
+          >
+            Наш Адрес
+          </span>
+
+          <a
+            href="https://go.2gis.com/glakz"
+            rel="noreferrer"
+            target="_blank"
+            class="block text-2xl font-medium text-gray-900 hover:opacity-75 dark:text-white "
+          >
+            Проспект Имама Шамиля 18к​. 5 этаж, г.Махачкала
           </a>
         </p>
 
@@ -147,10 +167,14 @@
             </svg>
           </a>
         </div>
+
         <p class="mt-8 text-xs text-gray-500 dark:text-gray-400">
           &copy; 2007-2023. <br /> ООО "Фабрика Рекламы "Мега". <br /> Все права
           защищены.
         </p>
+        <div class="pt-4 pl-1">
+          <LightSwitch class="flex sm:hidden" />
+        </div>
       </div>
     </div>
   </div>

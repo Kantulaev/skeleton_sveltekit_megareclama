@@ -4,7 +4,7 @@
   import "@skeletonlabs/skeleton/themes/theme-skeleton.css";
   import "@skeletonlabs/skeleton/styles/all.css";
   import "../app.postcss";
-  import { AppShell, AppBar, LightSwitch, menu } from "@skeletonlabs/skeleton";
+  import { AppShell, AppBar, LightSwitch} from "@skeletonlabs/skeleton";
 </script>
 
 <!-- App Shell -->
